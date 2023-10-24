@@ -1,0 +1,24 @@
+hello world
+
+kali linux 
+Terminal CMD
+
+apt update
+
+apt upgrade -y
+
+termux-setup-storage
+
+pkg install wget
+
+wget -O install-nethunter-termux https://offs.ec/2MceZWr
+
+chmod +x install-nethunter-termux
+
+./install-nethunter-termux
+
+nethunter kex passwd
+
+nethunter -r kex passed
+
+nh kex &
